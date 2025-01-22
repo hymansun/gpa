@@ -1,0 +1,13 @@
+{
+  "name": "gpa-calculator",
+  "version": "1.0.0",
+  "description": "GPA Calculator application",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build script defined'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

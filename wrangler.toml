@@ -1,0 +1,4 @@
+name = "gpa-calculator"
+type = "javascript"
+account_id = "your-account-id"
+workers_dev = true
